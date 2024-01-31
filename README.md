@@ -255,6 +255,8 @@ The soft voting strategy is effective when individual classifiers provide probab
 
 The key idea behind a voting classifier is that by combining the strengths of multiple classifiers, it can often achieve better performance and generalization than individual classifiers. It is especially useful when the base classifiers are diverse and make errors on different subsets of the data. Common algorithms used as base classifiers include decision trees, support vector machines, logistic regression, k-nearest neighbors, etc.
 In Python, the VotingClassifier class in the scikit-learn library provides an implementation of a voting classifier. It allows you to combine multiple classifiers and specify the voting strategy.
+
+
 So, this is a fun project and i hope alot of people will get benefit from this.
 
 THANK YOU.
